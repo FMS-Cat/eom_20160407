@@ -1,11 +1,13 @@
-# Everyday One Motion - 20160407 "IFS vs. Particle"  
+# Everyday One Motion - 20160407  
+
+"IFS vs. Particle"  
 
 ![](20160407.gif)  
 
 JavaScript, WebGL, Raymarching, GPGPU Particle  
 
 [Everyday One Motion](http://motions.work/motion/181)  
-[Demo Page](http://fms-cat.github.io/eom_20160407)  
+[Demo Page](http://fms-cat-eom.github.io/20160407/dist)  
 
 ## 今月のテーマ
 
